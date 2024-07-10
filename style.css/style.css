@@ -13,7 +13,7 @@ body{
     margin: o;
     padding: 0;
 }
-
+/* banner section */
 .Banner-container-1{
    
     height: 652px;
@@ -600,7 +600,7 @@ background: rgba(255, 76, 30, 0.05);
     font-weight: 600;
 }
 
-
+/* footer section */
 
 footer{
     height: 100px;
